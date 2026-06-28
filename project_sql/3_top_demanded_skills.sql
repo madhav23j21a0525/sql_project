@@ -20,7 +20,7 @@ GROUP BY
     skills
 ORDER BY
     demand_count DESC
-limit 5
+limit 5;
 
 /*
 Here's the breakdown of the most demanded skills for data analysts in 2023
